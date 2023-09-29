@@ -1,2 +1,2 @@
 # ALAMNT
-python project - public transport congetsion *might change*
+python project - public transport congestion *might change*
